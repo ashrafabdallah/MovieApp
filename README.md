@@ -2,15 +2,15 @@
 ## Description
  Movie App is an iOS application that allows users to discover and view information about movies. This project follows the MVVM (Model-View-ViewModel) design pattern and utilizes Moya for network requests, Alamofire for HTTP networking, and SDWebImage for asynchronous image loading and caching.
 
-## Project Overview 🛠
-  # Architecture
+# Project Overview 🛠
+  ## Architecture
     This project follows the MVVM (Model-View-ViewModel) architectural pattern, which separates the user interface, business logic, and data access layers.
 
 - Model: Represents the data and business logic.
 - View: Represents the user interface elements.
 - ViewModel: Acts as an intermediary between the Model and View, handling data formatting and     communication.
 
- # Dependencies
+ ## Dependencies
 - Moya: A network abstraction layer for making network requests.
 - Alamofire: An HTTP networking library for Swift.
 - SDWebImage: An asynchronous image downloader and caching library.
