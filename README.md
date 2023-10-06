@@ -33,7 +33,7 @@
 ![mvvm_diagram](https://github.com/ashrafabdallah/MovieApp/assets/31374697/c5954329-9674-4827-a0da-57039817ef22)
 
 
-##Author
+## Author
 Ashraf Eltantawy.
 Contact Information : 
  email : ashrafeltantawy252@gmail.com
